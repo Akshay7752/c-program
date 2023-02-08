@@ -1,0 +1,17 @@
+#include<stdio.h>
+int addition()
+int main()
+{
+	int a,b;
+	printf("Enter a:");
+	scanf("%d",&a);
+	printf("Enter b:");
+	scanf("%d",&b);
+	printf("Addition of a and b:%d",a+b);
+}
+int main()
+{
+	printf("HELLO______\n");
+	addition();
+	printf("Hiiiii___");
+}
